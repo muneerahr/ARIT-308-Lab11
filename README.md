@@ -1,4 +1,4 @@
-# Credit Card Customer Segmentation
+#  K-Means Lab  
 
 This project uses K-Means clustering to segment credit card customers based on their spending behavior.
 
